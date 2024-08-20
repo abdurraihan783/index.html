@@ -1,2 +1,3 @@
-# index.html
+index.html
 Simple Dummy webpage.
+dummy
